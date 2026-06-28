@@ -85,20 +85,10 @@ itgc-banking-assessment/
 
 ---
 
-## 🚀 How to Use This Project
 
-### View Locally
-```bash
-git clone https://github.com/your-username/itgc-banking-assessment.git
-cd itgc-banking-assessment
-open index.html
 ```
 
-### Deploy to GitHub Pages
-1. Go to **Settings → Pages**
-2. Source: **Deploy from a branch**
-3. Branch: **main**, folder: **/ (root)**
-4. Save — your dashboard will be live at `https://your-username.github.io/itgc-banking-assessment/`
+
 
 ---
 
