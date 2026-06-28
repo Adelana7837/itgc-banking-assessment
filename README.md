@@ -19,8 +19,8 @@ A comprehensive simulated ITGC audit of a banking environment, evaluating the de
 
 ## 🌐 Live Dashboard
 
-👉 **[View the Interactive ITGC Dashboard](https://your-username.github.io/itgc-banking-assessment/)**  
-*(Update this link after enabling GitHub Pages)*
+👉 **[View the Interactive ITGC Dashboard](https://adelana7837.github.io/itgc-banking-assessment/)**  
+
 
 The dashboard includes:
 - Control testing results across all 8 domains
@@ -113,8 +113,3 @@ open index.html
 
 ## 📄 License
 
-This project is for portfolio and educational purposes. All scenarios are simulated.
-
----
-
-*Built as part of an IT Audit professional portfolio. Contact via GitHub.*
